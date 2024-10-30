@@ -13,9 +13,10 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'Nombre del componente formativo',
+      tema: 'Segmentación y mercados de interés',
       titulo: 'Cuestionario',
-      introduccion: '<b> Objetivo:</b> Texto de Word',
+      introduccion:
+        '<b> Objetivo:</b> analizar el funcionamiento de los procedimientos que abracan la segmentación de mercados, con el fin de llegar al mercado meta.',
       barajarPreguntas: true,
       preguntas: [
         {
