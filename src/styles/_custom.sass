@@ -35,16 +35,16 @@ ul.lista-ul--color li, ul.lista-ul.ul-color-a li, ul.lista-ul li, ol.lista-ol--c
     
 .fondo-2
   background-image: url('../assets/curso/temas/fondo-2.svg')
-  margin-inline: -3rem !important
-  @media (max-width: $bp-max-sm)
-    margin-inline: -1.5rem !important
   background-repeat: no-repeat
   background-size: 100%
 
 .fondo-3
   background-image: url('../assets/curso/temas/fondo-3.svg')
   background-repeat: no-repeat
-  background-size: 100% 100%
+  background-size: cover
+
+.fondo-4 
+  background: #FEF0D7
 
 .tarjeta.tarjeta--gris-b.acordion__activo
   background-color: #FEF0D7
@@ -67,20 +67,26 @@ ul.lista-ul--color li, ul.lista-ul.ul-color-a li, ul.lista-ul li, ol.lista-ol--c
 .tarjeta.color-primario-a4
   background-color: #FFFBF3
 
+.tarjeta--boton.color-primario
+  background-color: #E9D3D3
+
 .tarjeta.color-morado
   background-color: #F3F9FF
 
 .img-infografica__card.img-infografica__card--selected
-  width: 350px
+  width: 400px
 
 .color-acento-contenido-a
   background-color: #E9D3D3
 
 .cajon.color-primario
   background-color: #FEF0D7
+
+.tarjeta.color-secundario-a
+  background-color: #FEF0D7
   
 .bg-header-table
-  background-color: $color-acento-contenido
+  background-color: $color-acento-contenido !important
 
 .tabs-a__tab
   background-color: #E8E4DF
@@ -98,14 +104,14 @@ ul.lista-ul--color li, ul.lista-ul.ul-color-a li, ul.lista-ul li, ol.lista-ol--c
 .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
   background-color: #FFDFB9
   
-.acordion__accion__btn--b, .slyder__btn, .acordion__accion__btn--a, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right
+.acordion__accion__btn--b, .slyder__btn, .acordion__accion__btn--a, .linea-tiempo-c__header__btn--left, .linea-tiempo-c__header__btn--right, .slyder-a__btn--atrs, .slyder-a__btn--sigt
   background-color: $color-acento-botones
   border: 1px solid $white
   i
     color: $white !important
 
-// .tarjeta.tarjeta--gris-b
-//   background-color: #FEF0D7
+.slyder-a__btn--atrs, .slyder-a__btn--sigt
+  background-image: url('../assets/componentes/arrow.svg')
 
   
 .pasos-b__header__item--active
@@ -133,3 +139,67 @@ ul.lista-ul--color li, ul.lista-ul.ul-color-a li, ul.lista-ul li, ol.lista-ol--c
   border: 1px solid $white
   i
     color: $white !important
+
+.slyder-a__bullets__item
+  background-color: #3C5756
+.slyder-a__bullets__item--active
+  background-color: $color-acento-botones !important
+  border-color: $white
+
+.cajon.color-secundario
+  background-color: #FFDFB9
+
+.img-infografica-b__modal
+  background-color: #63502F
+  p
+    color: $white
+
+
+///////// Card hover --------------------------------------
+.crd_hover_txt
+  position: relative  
+  padding: 0 !important
+  overflow: hidden !important  
+  &:hover    
+    .crd_hover_txt--body   
+      background-color: #FEF0D7  
+      transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
+      transform: translateY(0)
+      h5.t2
+        color: $black
+        display: block
+        background-image: url('../assets/curso/temas/ico-up.svg')
+        background-size: 7% 100%
+        background-repeat: no-repeat
+        padding-left: 1.8rem
+      h5.t1
+        display: none
+        
+      @media (max-width:767px)  
+        p
+          font-size: 0.85em
+        h5.t2
+          background-size: 5.5% 100%
+
+  .crd_hover_txt--body
+    position: absolute
+    padding: 1.5rem
+    bottom: 0    
+    transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
+    transform: translateY(calc( 100% - 3.85rem ))
+    background-color: #851717
+    h5.t2
+        display: none
+    h5.t1
+      display: block
+      color: $white
+      cursor: pointer
+      background-image: url('../assets/curso/temas/ico-down.svg')
+      background-size: 8% 100%
+      background-repeat: no-repeat
+      padding-left: 1.8rem
+  
+  @media (min-width:1200px) and (max-width:1400px)  
+    .crd_hover_txt--body
+      p
+        font-size: 0.85em
