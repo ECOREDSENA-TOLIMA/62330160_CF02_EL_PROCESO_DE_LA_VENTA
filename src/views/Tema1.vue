@@ -101,7 +101,7 @@
             p.mb-2 Identifica los programas eficaces para atraer y retener a los grupos segmentados, de acuerdo con su disponibilidad de recursos y sus propias características. Por ejemplo: la compañía de calzado S.A.S. decidió que a pesar que existía reglas arancelarias atractivas que permiten una expansión a nivel internacional, optó por segmentar y seleccionar su mercado meta en otras ciudades del país, ya que no está en la capacidad de invertir a gran escala.
 
     .row.fondo-1.p-md-5.p-4.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-down")
-      .col-12.col-md-8.mb-4.mb-lg-2
+      .col-12.col-lg-8.order-lg-1.order-2
         ul.lista-ul--color.lista-title
           li.mb-0.px-3.py-1
             i.fas.fa-certificate(style="top:3px")
@@ -134,7 +134,7 @@
             .lista-ol--cuadro__vineta
               span #[strong(style="color:#000000") 6]
             p.mb-2 Organizar adecuadamente los sistemas de distribución.
-      .col-8.col-lg-4
+      .col-8.col-lg-4.order-lg-2.order-1.mb-5.mb-lg-2
         figure
           img(src='@/assets/curso/temas/tema1/img-4.png', alt='')
 

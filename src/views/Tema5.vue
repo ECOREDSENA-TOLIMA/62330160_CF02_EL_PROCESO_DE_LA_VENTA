@@ -39,8 +39,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 1.</b> <i>Estructura del mercado</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema5/fig-1a.svg', alt='Figura que contiene el proceso de la estructura del mercado, relacionando aspectos como inversión, ahorro, hogares, rentas generales, empresas, importaciones y exportaciones; así como el flujo que se realiza entre todos ellos.')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema5/fig-1b.svg', alt='Figura que contiene el proceso de la estructura del mercado, relacionando aspectos como inversión, ahorro, hogares, rentas generales, empresas, importaciones y exportaciones; así como el flujo que se realiza entre todos ellos.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema5/fig-1a.svg', alt='Figura que contiene el proceso de la estructura del mercado, relacionando aspectos como inversión, ahorro, hogares, rentas generales, empresas, importaciones y exportaciones; así como el flujo que se realiza entre todos ellos.')  
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema5/fig-1b.svg', alt='Figura que contiene el proceso de la estructura del mercado, relacionando aspectos como inversión, ahorro, hogares, rentas generales, empresas, importaciones y exportaciones; así como el flujo que se realiza entre todos ellos.') 
       
     Separador
     #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -211,8 +211,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 2.</b> <i>Variables para indagar el valor del mercado</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema5/fig-2a.svg', alt='Figura que contiene algunas definiciones que hacen parte de aspectos presentes dentro de las variables del mercado, la cuales son: potencial total del mercado, potencial de ventas de la empresa, participación del mercado y pronóstico de ventas.')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema5/fig-2b.svg', alt='Figura que contiene algunas definiciones que hacen parte de aspectos presentes dentro de las variables del mercado, la cuales son: potencial total del mercado, potencial de ventas de la empresa, participación del mercado y pronóstico de ventas.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema5/fig-2a.svg', alt='Figura que contiene algunas definiciones que hacen parte de aspectos presentes dentro de las variables del mercado, la cuales son: potencial total del mercado, potencial de ventas de la empresa, participación del mercado y pronóstico de ventas.')  
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema5/fig-2b.svg', alt='Figura que contiene algunas definiciones que hacen parte de aspectos presentes dentro de las variables del mercado, la cuales son: potencial total del mercado, potencial de ventas de la empresa, participación del mercado y pronóstico de ventas.') 
       
     p.mb-5(data-aos="fade-right") Para la empresa es muy útil realizar este tipo de estimaciones, ya que le sirven de referencia para hacer cálculos aproximados sobre inversiones, gastos e ingresos que debe realizar y percibir la organización si desea incursionar en este mercado. A continuación, se presenta una serie de herramientas o métodos, con los cuales se pueden realizar pronósticos de demanda y ventas, los cuales son de consulta opcional y para profundizar en el tema:
 

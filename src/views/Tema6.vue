@@ -27,8 +27,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 3.</b> <i>Aspectos para la definición de criterios</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema6/fig-3a.svg', alt='Figura que relaciona los tres aspectos que se deben tener en cuenta para la definición de criterios, estos son: la organización, el microentorno y el macroentorno.')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema6/fig-3b.svg', alt='Figura que relaciona los tres aspectos que se deben tener en cuenta para la definición de criterios, estos son: la organización, el microentorno y el macroentorno.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/fig-3a.svg', alt='Figura que relaciona los tres aspectos que se deben tener en cuenta para la definición de criterios, estos son: la organización, el microentorno y el macroentorno.')  
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/fig-3b.svg', alt='Figura que relaciona los tres aspectos que se deben tener en cuenta para la definición de criterios, estos son: la organización, el microentorno y el macroentorno.') 
       .col-lg-10.col-12
         p El número de criterios que determinará la empresa, depende de los objetivos planteados por esta, frente a cada mercado, rentabilidad, costos, competencia, etc. A continuación, se presentan algunos de ellos:
 
@@ -48,8 +48,8 @@
         .titulo-sexto.color-acento-contenido
           p.titulo.pb-0.mb-0 <b>Figura 4.</b> <i>Matriz DOFA</i>
         figure
-          img.d-none.d-sm-none.d-md-block(src='@/assets/curso/temas/tema6/fig-4a.svg', alt='Figura que contiene un ejemplo sobre la matriz DOFA, destacando que hay aspectos positivos y negativos, así como variables internas y externas, catalogados de la siguiente manera: fortalezas: variable interna y aspecto positivo, Debilidades: variable interna y aspecto negativo, Oportunidades: variable externa y aspecto positivo, Amenazas: variable externa y aspecto negativo.')  
-          img.d-block.d-md-none(src='@/assets/curso/temas/tema6/fig-4b.svg', alt='Figura que contiene un ejemplo sobre la matriz DOFA, destacando que hay aspectos positivos y negativos, así como variables internas y externas, catalogados de la siguiente manera: fortalezas: variable interna y aspecto positivo, Debilidades: variable interna y aspecto negativo, Oportunidades: variable externa y aspecto positivo, Amenazas: variable externa y aspecto negativo.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema6/fig-4a.svg', alt='Figura que contiene un ejemplo sobre la matriz DOFA, destacando que hay aspectos positivos y negativos, así como variables internas y externas, catalogados de la siguiente manera: fortalezas: variable interna y aspecto positivo, Debilidades: variable interna y aspecto negativo, Oportunidades: variable externa y aspecto positivo, Amenazas: variable externa y aspecto negativo.')  
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema6/fig-4b.svg', alt='Figura que contiene un ejemplo sobre la matriz DOFA, destacando que hay aspectos positivos y negativos, así como variables internas y externas, catalogados de la siguiente manera: fortalezas: variable interna y aspecto positivo, Debilidades: variable interna y aspecto negativo, Oportunidades: variable externa y aspecto positivo, Amenazas: variable externa y aspecto negativo.') 
       
     p.mb-5(data-aos="fade-right") La información relacionada en esta matriz y sus clasificaciones sirven para identificar estrategias que potencialicen los aspectos fuertes de la empresa y fortalezcan los que no son. Al respecto Correa & Trujillo (2007), afirman “La matriz, debilidades – amenazas – fortalezas – oportunidades (DOFA), es una herramienta que ayuda a desarrollar cuatro tipos de estrategias: estrategias de debilidades y oportunidades, estrategias de fuerzas y debilidades, estrategias de fuerzas, amenazas y estrategias de debilidades y amenazas”; las cuales, de acuerdo a los autores, se presentan en la siguiente gráfica:
 

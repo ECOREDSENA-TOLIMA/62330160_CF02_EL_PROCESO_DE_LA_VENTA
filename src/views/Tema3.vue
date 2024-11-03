@@ -78,29 +78,29 @@
       .col-12.col-lg-10
         PasosA.color-acento-contenido(tipo="l")
           .row.justify-content-center.align-items-center
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               p Se elaboran las tablas que contengan la información que será analizada, estas estarán compuestas por pares de observaciones, que no son más que la relación entre un valor X y un valor Y. 
-            .col-md-6
+            .col-lg-6.order-lg-2.order-1.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema3/slid-1a.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema3/slid-1b.png', alt='')
                 figcaption Leyenda de la Imagen
-            .col-md-6.text-start
+            .col-lg-6.text-start
               p Se grafican los conjuntos de pares de observaciones, que también son llamados diagrama de dispersión. Cada par estará representado por un punto dentro del diagrama, así que en este habrá tantos puntos como pares existan. 
           .row.justify-content-center.align-items-center
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.order-lg-1.order-2
               p Determinar la forma que toma la dispersión de puntos, para establecer la línea que mayor número de puntos contenga. 
-            .col-md-6
+            .col-lg-6.order-lg-2.order-1.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema3/slid-1c.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-md-6.mb-4.mb-md-0
+            .col-lg-6.mb-4.mb-md-0
               figure
                 img(src='@/assets/curso/temas/tema3/slid-1d.png', alt='')
-            .col-md-6.text-start
+            .col-lg-6.text-start
               p Realizar el análisis respectivo.
 
     .row.fondo-4.p-md-5.p-4.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
@@ -204,17 +204,17 @@
       .col-lg-10.col-12
         TabsA.color-acento-botones.mb-5
           .tarjeta.color-primario.p-4(titulo="Aleatorio simple")
-            h4 Aleatorio simple
+            //- h4 Aleatorio simple
             p En este método los elementos de la población tienen la misma probabilidad de ser elegidos para formar la muestra, para lo cual se requiere de elaborar un listado que contenga los elementos que hacen parte de la población y que son sujetos de elección por algún método al azar; por ejemplo, un sorteo, uso de tablas de números aleatorios u utilización de medios electrónicos o #[em software] para elegir la muestra. 
             p Este tipo de muestreo, se aplica en casos donde el estudio es poco variable, disperso geográficamente y no es muy grande (Martínez & Levin, 2012).
           .tarjeta.color-primario.p-4(titulo="Sistemático")
-            h4 Sistemático
+            //- h4 Sistemático
             p La elección de los elementos que conforman la muestra se hace de manera ordenada, ya sea numéricamente, alfabéticamente, cronológicamente, etc. Para hallar este muestreo, se hace necesario dividir el tamaño del universo por el número de elementos que conformarán la muestra y así hallar un intervalo de selección; a partir de este último, se toma un número que esté dentro de él, de tal manera que sea el punto inicial o primer elemento elegido y posteriormente, se va sumando el valor del intervalo calculado para hallar los demás elementos.
           .tarjeta.color-primario.p-4(titulo="Estratificado")
-            h4 Estratificado
+            //- h4 Estratificado
             p A diferencia del muestreo aleatorio simple, el estratificado presenta un alto grado de variabilidad, lo cual hace que se deba dividir en diferentes estratos o subpoblaciones, que son agrupados lo más homogéneo posible. Una vez se realice dicha estratificación se recurre a la elección de elementos en cada uno para conformar la muestra. 
           .tarjeta.color-primario.p-4(titulo="Conglomerados")
-            h4 Conglomerados
+            //- h4 Conglomerados
             p Se elige un grupo de las unidades de muestreo o conglomerado, con el fin de reducir el costo de muestreo de un universo disperso en una amplia área geográfica. Generalmente, este conglomerado representa la población y a partir de esto, se elige en su interior los elementos que tomarán como muestra.
 
     .row.justify-content-center.mb-3(data-aos="fade-down")
