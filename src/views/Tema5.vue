@@ -477,7 +477,7 @@
                 td 
               tr
                 th.text-center 10
-                td 
+                td Costo de intermediación para la empresa
                 td 
                 td 
                 td 
@@ -485,7 +485,7 @@
                 td 
               tr
                 th.text-center 11
-                td 
+                td Manejo de las campañas de promoción y publicidad
                 td 
                 td 
                 td 

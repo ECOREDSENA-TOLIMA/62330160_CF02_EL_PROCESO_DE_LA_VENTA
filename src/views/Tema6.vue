@@ -83,7 +83,7 @@ export default {
     datosSlyder: [
       {
         titulo:
-          'Compatibilidad con la P.E.E. (Planeación estratégica de la empresa)',
+          'Compatibilidad con la P.E.E. (Planeación Estratégica de la Empresa)',
         texto: `<p>La selección de los mercados debe ser pertinente con la misión, visión, objetivos estratégicos y operacionales, así como las políticas institucionales de la empresa.</p>`,
         imagen: require('@/assets/curso/temas/tema6/sl1-a.png'),
       },

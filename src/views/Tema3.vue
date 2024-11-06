@@ -80,24 +80,23 @@
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               p Se elaboran las tablas que contengan la información que será analizada, estas estarán compuestas por pares de observaciones, que no son más que la relación entre un valor X y un valor Y. 
-            .col-lg-6.order-lg-2.order-1.mb-4.mb-md-0
+            .col-lg-6.order-lg-2.order-1.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema3/slid-1a.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-lg-6.mb-4.mb-md-0
+            .col-lg-6.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema3/slid-1b.png', alt='')
-                figcaption Leyenda de la Imagen
             .col-lg-6.text-start
               p Se grafican los conjuntos de pares de observaciones, que también son llamados diagrama de dispersión. Cada par estará representado por un punto dentro del diagrama, así que en este habrá tantos puntos como pares existan. 
           .row.justify-content-center.align-items-center
             .col-lg-6.order-lg-1.order-2
               p Determinar la forma que toma la dispersión de puntos, para establecer la línea que mayor número de puntos contenga. 
-            .col-lg-6.order-lg-2.order-1.mb-4.mb-md-0
+            .col-lg-6.order-lg-2.order-1.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema3/slid-1c.png', alt='')
           .row.justify-content-center.align-items-center
-            .col-lg-6.mb-4.mb-md-0
+            .col-lg-6.mb-4.mb-lg-0
               figure
                 img(src='@/assets/curso/temas/tema3/slid-1d.png', alt='')
             .col-lg-6.text-start
