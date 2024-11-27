@@ -9,7 +9,7 @@
 
     p.mb-4(data-aos="fade-right") Antes de adentrarse en el estudio del macroentorno, es importante hablar un poco sobre los mercados de interés.
     
-    p.mb-5(data-aos="fade-right") Las empresas son agentes económicos que participan en el mercado con la función social de satisfacer las necesidades de las personas, a través de la oferta de productos y servicios. Esta labor social es motivada por la búsqueda de beneficios económicos, lo cual empuja a las empresas a crecer permanentemente, lo que implica entre otras cosas, la búsqueda de nuevos mercados que permitan la atención de nuevos consumidores y la captación de mayores ganancias. Estos mercados denominados de interés o preferentes, pueden estar ubicados en otros países o en el mismo donde opera la empresa y su selección depende de los objetivos, las metas y los criterios definidos por la empresa. La incursión en nuevos mercados puede ser una tarea sencilla o compleja que depende de las características del entorno, barreras de entrada, idioma, infraestructura, competencia, etc. 
+    p.mb-5(data-aos="fade-right") Las empresas son agentes económicos que participan en el mercado con la función social de satisfacer las necesidades de las personas, a través de la oferta de productos y servicios. Esta labor social es motivada por la búsqueda de beneficios económicos, lo cual empuja a las empresas a crecer permanentemente, lo que implica, entre otras cosas, la búsqueda de nuevos mercados que permitan la atención de nuevos consumidores y la captación de mayores ganancias. Estos mercados denominados de interés o preferentes, pueden estar ubicados en otros países o en el mismo donde opera la empresa y su selección depende de los objetivos, las metas y los criterios definidos por la empresa. La incursión en nuevos mercados puede ser una tarea sencilla o compleja que depende de las características del entorno, barreras de entrada, idioma, infraestructura, competencia, etc. 
 
     .bloque-texto-g.bloque-texto-g--inverso.color-primario.mb-5.p-3.p-sm-4.p-md-5(data-aos="fade-down")
       .bloque-texto-g__img(
@@ -29,7 +29,7 @@
             i.fas.fa-certificate(style="top:3px")
             h4.mb-0 Entorno demográfico
 
-    p.mb-5(data-aos="fade-right") El estudio del entorno demográfico está relacionado con el análisis de las características, la dinámica y composición de la población en los mercados de interés en un periodo determinado. Para Casado & Rubio (2010), “u importancia desde el punto de vista del #[em marketing] radica en que la demografía estudia las personas y son estas últimas las que conforman los mercados”. En otras palabras, las personas son las que compran y los cambios en su comportamiento y composición pueden generar impactos positivos y negativos en las decisiones de producción y comercialización de las empresas. La selección de las variables objeto de estudio se realiza atendiendo a criterios de disponibilidad de la información y necesidades de la investigación. Sin embargo, a continuación, se presentan algunas, según lo expuesto por Casado et al. (2010):
+    p.mb-5(data-aos="fade-right") El estudio del entorno demográfico está relacionado con el análisis de las características, la dinámica y composición de la población en los mercados de interés en un periodo determinado. Para Casado & Rubio (2010), “la importancia desde el punto de vista del #[em marketing] radica en que la demografía estudia las personas y son estas últimas las que conforman los mercados”. En otras palabras, las personas son las que compran y los cambios en su comportamiento y composición pueden generar impactos positivos y negativos en las decisiones de producción y comercialización de las empresas. La selección de las variables objeto de estudio se realiza atendiendo a criterios de disponibilidad de la información y necesidades de la investigación. Sin embargo, a continuación, se presentan algunas, según lo expuesto por Casado et al. (2010):
 
     .row.justify-content-center.mb-5
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
@@ -58,7 +58,7 @@
           .crd_hover_txt--body
             h5.t1.mb-3 Nivel educativo
             h5.t2.mb-3 Procesos de cambio en los niveles educativo
-            p.mb-0 Hace alusión al proceso de mejora del sistema educativo, implicando transformaciones en ámbitos como el circulo, la asignación de recursos financieros, organización del sistema escolar, así como el desarrollo del docente. 
+            p.mb-0 Hace alusión al proceso de mejora del sistema educativo, implicando transformaciones en ámbitos como el círculo, la asignación de recursos financieros, organización del sistema escolar, así como el desarrollo del docente. 
       .col-xl-3.col-lg-6.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
@@ -216,7 +216,7 @@
       .col-12.col-lg-8.mb-4.mb-lg-2
         p La tecnología es conocimiento aplicado para transformar la realidad del ser humano, que se concreta en la creación y mejoramiento de herramientas, procesos, etc. Este conocimiento se aplica, tanto a cosas tangibles como intangibles; por esa razón, se pueden clasificar las tecnologías en duras y blandas. Al respecto Ferraro et al. (1997), afirma “las tecnologías blandas – en las que su producto no es un objeto tangible- pretenden mejorar el funcionamiento de las instituciones u organizaciones para el cumplimiento de sus objetivos… Se suele llamar duras aquellas tecnologías que se basan en conocimientos de las ciencias duras como la física o la química”.
       .col-lg-10.col-12.mb-4.mb-lg-2
-        p.mb-4 Este método consiste en analizar el comportamiento y las características de un grupo pequeño de la población total u objetivo, para inferir finalmente en toda la población. Esta parte de la población debe ser representativa y aleatoria; es decir, que los números de elementos a estudiar deben contener todos los elementos en la misma proporción que existen en su totalidad y por otra parte esta muestra debe elegirse al azar, de tal manera que se pueda medir el nivel de confianza y obtener una porción representativa del total de la población a investigar (Céspedes, 2012).
+        p.mb-4 Este método consiste en analizar el comportamiento y las características de un grupo pequeño de la población total u objetivo, para inferir finalmente en toda la población. Esta parte de la población debe ser representativa y aleatoria; es decir, que los números de elementos a estudiar deben contener todos los elementos en la misma proporción que existen en su totalidad y por otra parte, esta muestra debe elegirse al azar, de tal manera que se pueda medir el nivel de confianza y obtener una porción representativa del total de la población a investigar (Céspedes, 2012).
         .cajon.color-secundario.p-4
           p.mb-0 En la actualidad, se puede observar que los avances tecnológicos han permitido la creación de nuevos sectores como la nanotecnología, la robótica, los biocombustibles, el comercio electrónico, etc. e impulsado el de las telecomunicaciones, las energías renovables, la informática, entre otros.
 

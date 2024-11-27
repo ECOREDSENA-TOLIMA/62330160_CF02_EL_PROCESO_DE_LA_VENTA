@@ -28,7 +28,7 @@
           div(numero="2" titulo="Monopolio") 
             p.mb-2 En este mercado existen muchos demandantes, y a decir verdad, casi un solo oferente que produce un bien que no tiene sustitutos cercanos y a partir de esta situación, ejercen una posición dominante en las condiciones de negociación y la determinación del precio. Existen fuertes barreras de entrada a este mercado y nula movilidad de bienes y factores, por lo que se considera una situación extrema de competencia imperfecta. Un ejemplo, puede ser el de una refinería de sal que tiene control sobre la única mina de sal que existe en el país.
           div(numero="3" titulo="Oligopolio") 
-            p.mb-2 Mercado donde existen un número pequeño de grandes empresas que controlan la producción y la comercialización de un bien y un número infinito de demandantes. Es un caso de competencia imperfecta donde existe una interdependencia entre los oferentes; es decir, las acciones de uno afectan a los demás, por esa razón la competencia se puede tornar agresiva o se puede regir por medio de acuerdos. Este grupo de empresas determinan el precio del bien, existen barreras de entrada y poca movilidad de bienes y factores. Un clásico ejemplo es el de la industria petrolera y las telecomunicaciones.
+            p.mb-2 Mercado donde existen un número pequeño de grandes empresas que controlan la producción y la comercialización de un bien y un número infinito de demandantes. Es un caso de competencia imperfecta donde existe una interdependencia entre los oferentes; es decir, las acciones de uno afectan a los demás, por esa razón, la competencia se puede tornar agresiva o se puede regir por medio de acuerdos. Este grupo de empresas determinan el precio del bien, existen barreras de entrada y poca movilidad de bienes y factores. Un clásico ejemplo es el de la industria petrolera y las telecomunicaciones.
           div(numero="4" titulo="Monopsonio") 
             p.mb-2 Situación del mercado donde existe un gran número de oferentes y muy pocos o un gran comprador de un bien, que define las condiciones de negociación y tiene el poder para determinar el precio. Es el caso contrario al monopolio y se puede dar en un bien terminado, un insumo o materia prima. Un claro ejemplo de monopsonio, puede ser el de los ejércitos que compran aviones de guerra a varias empresas.
           div(numero="5" titulo="Oligopsonio") 
@@ -148,11 +148,11 @@
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/temas/tema5/info-5A.svg', alt='')
-          div.p-3(x="15%" y="8%" numero="+" tooltip="Clic para ver información")
+          div.p-3(x="40%" y="20.5%" numero="+" tooltip="Clic para ver información")
             ul.lista-ul.ul-color-a
               li 
                 i.fas.fa-check
-                p.mb-0 #[b Cultura:] es un conjunto de símbolos y objetos de hechura humana creados por una sociedad y trasmitidos y heredados por una generación a otra, como determinantes y reguladores de la conducta humana. 
+                p.mb-0 #[b Cultura:] es un conjunto de símbolos y objetos de hechura humana creados por una sociedad y transmitidos y heredados por una generación a otra, como determinantes y reguladores de la conducta humana. 
               li 
                 i.fas.fa-check
                 p.mb-0 #[b Subculturas:] son grupos de una cultura que exhiben patrones de conducta característicos, suficientes para distinguirlos de otros grupos dentro de la misma cultura. Los patrones de comportamiento que distinguen a las subculturas se basan en factores como la raza, la nacionalidad, la religión y la identificación urbana o rural.
@@ -165,7 +165,7 @@
               li 
                 i.fas.fa-check
                 p.mb-0 #[b Familia y hogar:] una familia es un grupo de dos o más personas unidas por lazos de sangre, matrimonio y adopción, que viven juntas en un hogar. Un hogar es un concepto más amplio que se relaciona con una morada, más que con una relación.
-          div.p-3(x="50%" y="8%" numero="+" tooltip="Clic para ver información")
+          div.p-3(x="40%" y="47%" numero="+" tooltip="Clic para ver información")
             ul.lista-ul.ul-color-a
               li 
                 i.fas.fa-check
@@ -182,7 +182,7 @@
               li 
                 i.fas.fa-check
                 p.mb-0 #[b Personalidad:] se define ampliamente como el conjunto de rasgos de un individuo que influye en sus respuestas de conducta. Por ejemplo, el introvertido, extrovertido, versátil, amistoso, etc. 
-          div.p-3(x="85%" y="8%" numero="+" tooltip="Clic para ver información")
+          div.p-3(x="40%" y="73%" numero="+" tooltip="Clic para ver información")
             ul.lista-ul.ul-color-a
               li 
                 i.fas.fa-check

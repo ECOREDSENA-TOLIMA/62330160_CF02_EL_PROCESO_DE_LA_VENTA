@@ -20,7 +20,7 @@
     #t_6_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.1 Criterios para la selección de mercados
 
-    p.mb-5(data-aos="fade-right") Los criterios son juicios de valor o discernimiento que emite una persona o una empresa para tomar una decisión. En el caso de las empresas, cuando toman una decisión sobre los mercados donde incursionaran, deben tener en cuenta los siguientes aspectos:
+    p.mb-5(data-aos="fade-right") Los criterios son juicios de valor o discernimiento que emite una persona o una empresa para tomar una decisión. En el caso de las empresas, cuando toman una decisión sobre los mercados donde incursionarán, deben tener en cuenta los siguientes aspectos:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-lg-10.col-12.mb-4.mb-lg-2
@@ -40,7 +40,7 @@
     #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 6.2 Matriz DOFA
 
-    p.mb-4(data-aos="fade-right") La matriz DOFA es una herramienta de planeación estratégica utilizada frecuentemente por las empresas y los formuladores de proyectos para identificar posibles y viables rumbos de acción. Esta metodología consiste en seleccionar y clasificar variables según debilidades, fortalezas, oportunidades y amenazas, y cruzarlas para identificar estrategias ofensivas, defensivas, etc. Para la selección de los mercados de interés puede ser muy útil, ya que permite observar a partir de la información recopilada, no solo los pros y los contras, sino incursionar en cada uno planteando estrategias pertinentes que permitan posicionar exitosamente a la empresa.
+    p.mb-4(data-aos="fade-right") La matriz DOFA es una herramienta de planeación estratégica utilizada frecuentemente por las empresas y los formuladores de proyectos para identificar posibles y viables rumbos de acción. Esta metodología consiste en seleccionar y clasificar variables según debilidades, fortalezas, oportunidades y amenazas, y cruzarlas para identificar estrategias ofensivas, defensivas, etc. Para la selección de los mercados de interés puede ser muy útil, ya que permite observar, a partir de la información recopilada, no solo los pros y los contras, sino incursionar en cada uno, planteando estrategias pertinentes que permitan posicionar exitosamente a la empresa.
     p.mb-5(data-aos="fade-right") Es recomendable que en la construcción de la DOFA se describa concretamente cada factor y se le asigne un nivel de importancia, esto se puede hacer por medio de una escala cuantitativa o cualitativa; es decir, si para la empresa la capacidad financiera es considerada más relevante que la mano de obra calificada, se le puede asignar 5 a la primera y 2 a la segunda. A continuación, se presenta el ejemplo de una DOFA:
 
     .row.justify-content-center.mb-5(data-aos="fade-down")

@@ -36,7 +36,7 @@
         .col-lg-7.mb-4.mb-lg-0
           h4 Demográficas
           p Este criterio o variable permite dividir el mercado en diferentes unidades, de acuerdo con las características y estructura de la población objeto de estudio. (Adaptado de Kotler & Armstrong, 2008).
-          p #[b Variables:] genero, edad, estado civil, ocupación, educación, ciclo de vida familiar, tamaño familiar, religión, raza, generación y nacionalidad.
+          p #[b Variables:] género, edad, estado civil, ocupación, educación, ciclo de vida familiar, tamaño familiar, religión, raza, generación y nacionalidad.
         .col-lg-5.col-10
           figure
             img(src='@/assets/curso/temas/tema2/slid-1b.png', alt='')
@@ -76,7 +76,7 @@
         TabsA.color-acento-botones.mb-5
           .tarjeta.color-primario.p-4(titulo="Política no diferenciadora")
             h4 Política no diferenciadora
-            p Esta política apunta a todos los consumidores de manera masiva. Las decisiones tomadas son orientadas a la realización de campañas publicitarias y promocionales a un macro sector, señalando similitudes más que diferencias. Quien se arriesgan a orientar sus acciones frente a este #[em marketing], pueden verse perjudicado por competidores que se enfocan en satisfacer las necesidades de grupos específicos. 
+            p Esta política apunta a todos los consumidores de manera masiva. Las decisiones tomadas son orientadas a la realización de campañas publicitarias y promocionales a un macro sector, señalando similitudes más que diferencias. Quienes se arriesgan a orientar sus acciones frente a este #[em marketing], pueden verse perjudicados por competidores que se enfocan en satisfacer las necesidades de grupos específicos. 
           .tarjeta.color-primario.p-4(titulo="Política diferenciada")
             h4 Política diferenciada
             p Esta política va orientada a la realización de acciones particulares para cada uno de los segmentos a elegir. 
@@ -122,7 +122,7 @@
           div(numero="8" titulo="Selección del mercado meta") 
             p.mb-2 Luego de haber realizado dicho proceso, la segmentación finaliza, pues ya se han seleccionado uno o más segmentos para competir. 
           div(numero="9" titulo="Estrategia de mercado") 
-            p.mb-2 Una vez realizado el diagnóstico situacional, se procede al diseño de las estrategias o caminos que permitirá posicionamiento en el mercado. Se tendrá en cuenta el #[em marketing mix], para que a partir de cada uno de sus componentes se analice y dirijan acciones que logre cautivar el mercado: estrategias de producto, precio, distribución, etc.
+            p.mb-2 Una vez realizado el diagnóstico situacional, se procede al diseño de las estrategias o caminos que permitirán posicionamiento en el mercado. Se tendrá en cuenta el #[em marketing mix], para que a partir de cada uno de sus componentes se analice y dirijan acciones que logre cautivar el mercado: estrategias de producto, precio, distribución, etc.
           div(numero="10" titulo="Posicionamiento") 
             p.mb-2 Una vez aplicadas las estrategias, se busca cubrir una gran porción del mercado, a través de una mayor recordación del producto o servicio, de tal manera que se incremente las ventas y con esta las utilidades.
     
@@ -133,7 +133,7 @@
             i.fas.fa-certificate(style="top:3px")
             h4.mb-0 Selección del mercado meta
 
-    p.mb-5(data-aos="fade-right") El mercado meta es llamado también target o población objetivo y surge de la necesidad que tienen las empresas para elegir de un segmento un grupo de consumidores o industrias a las cuales se les va a direccionar las estrategias de #[em marketing], para lograr posicionar los productos o servicios ofrecidos. Por lo anterior, hay que tener en cuenta los siguientes tipos de #[em marketing]:
+    p.mb-5(data-aos="fade-right") El mercado meta es llamado también #[em target] o población objetivo y surge de la necesidad que tienen las empresas para elegir de un segmento un grupo de consumidores o industrias a las cuales se les va a direccionar las estrategias de #[em marketing], para lograr posicionar los productos o servicios ofrecidos. Por lo anterior, hay que tener en cuenta los siguientes tipos de #[em marketing]:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-12.mb-4.mb-lg-0

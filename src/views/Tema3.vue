@@ -26,13 +26,13 @@
         p El método inductivo parte de una situación problemática que busca ser resuelta, mediante el estudio o análisis de premisas que son observadas, clasificadas y estudiadas para compararlas y generalizarlas finalmente. Durante cada uno de estos procesos de análisis se establece una hipótesis que da una respuesta al problema planteado y a partir de esta, inducir estos mismos resultados a todos los eventos que sean similares.
       .col-lg-7.col-12.mb-4.mb-lg-2
         p.mb-3 La inferencia estadística es utilizada para extrapolar conclusiones a una población, a partir del análisis de una muestra. Para dar inicio a un análisis de la segmentación del mercado, a partir del método inductivo se pueden utilizar instrumentos como cuestionarios, formularios, formatos, encuesta, entrevistas, inspecciones oculares entre otras que permitan conocer de acuerdo con el objetivo que se pretende con la segmentación, identificar la percepción que tienen las personas acerca del producto o servicio en el que se está incursionando. Para ello, se hace necesario que quien se encuentre realizando dicho análisis aplique uno de estos instrumentos a toda la población (censo) o extraer una muestra aleatoria de la misma, para que, a partir de ella, mediante inferencia estadística (pensamiento inductivo), extrapolar los resultados para toda la población. 
-        p.mb-3 Por lo general las organizaciones eligen extraer una muestra, puesto que resulta menos costoso. De acuerdo con lo anterior, existen muchos métodos de muestreo, algunos de los cuales se abordarán más adelante. 
+        p.mb-3 Por lo general, las organizaciones eligen extraer una muestra, puesto que resulta menos costoso. De acuerdo con lo anterior, existen muchos métodos de muestreo, algunos de los cuales se abordarán más adelante. 
       .col-lg-3.col-6.mb-4.mb-lg-2
         figure
           img(src='@/assets/curso/temas/tema3/img_2.png', alt='')
       .col-12.col-lg-10.mb-4.mb-lg-2
         .cajon.color-secundario.p-4
-          p.mb-2 #[b Ejemplo:] se selecciona el sector N de la ciudad de Bogotá, para responder acerca del nivel de preferencia de un producto z de aseo, en donde se obtuvieron los siguientes resultados: 90 % prefieren dicho producto, 5 % usan otro producto y 5 % no responden.
+          p.mb-2 #[b Ejemplo:] se selecciona el sector N de la ciudad de Bogotá, para responder acerca del nivel de preferencia de un producto Z de aseo, en donde se obtuvieron los siguientes resultados: 90 % prefieren dicho producto, 5 % usan otro producto y 5 % no responden.
           p.mb-0 Ante esta respuesta, se induce que la ciudad de Bogotá comprará el producto z, debido a que el estudio de preferencia del sector N afirma preferirlo.
 
     .row.justify-content-center.mb-4(data-aos="fade-down")
@@ -72,7 +72,7 @@
 
     p.mb-4(data-aos="fade-right") El método de regresión estima una variable en función de otra que supuestamente es conocida; para ello, se establece una ecuación matemática que permite relacionar una variable dependiente Y, y las variables independientes X. Existen diferentes tipos de relaciones, entre las más utilizadas está la lineal, parabólica, exponencial y logarítmica.
 
-    p.mb-5(data-aos="fade-right") A continuación, se explica la manera de cómo establecer la regresión a través de los siguientes pasos:
+    p.mb-5(data-aos="fade-right") A continuación, se explica la manera de como establecer la regresión a través de los siguientes pasos:
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-12.col-lg-10
@@ -241,7 +241,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/slid-2b.svg', alt='')
           h4.text-center Por cuotas
-          p Se caracteriza por delegar o empoderar a quienes recolectan la información, la función de seleccionar los elementos muéstrales o unidades que serán objeto de análisis, con un nivel mínimo de directrices. 
+          p Se caracteriza por delegar o empoderar a quienes recolectan la información, la función de seleccionar los elementos muestrales o unidades que serán objeto de análisis, con un nivel mínimo de directrices. 
       .col-lg-4.col-12.mb-4.mb-sm-0
         .tarjeta--boton.color-primario.p-4.h-100
           .row.justify-content-center.mb-3
@@ -249,7 +249,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/slid-2c.svg', alt='')
           h4.text-center Voluntarios
-          p Se genera a partir de la colaboración voluntaria de las unidades o elementos muéstrales para formar parte de la muestra, a partir de la respuesta a cierto llamado como diligenciamiento de un formato, llamada para participar en determinado evento u opinión.
+          p Se genera a partir de la colaboración voluntaria de las unidades o elementos muestrales para formar parte de la muestra, a partir de la respuesta a cierto llamado como diligenciamiento de un formato, llamada para participar en determinado evento u opinión.
           
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-lg-10.col-12.cajon.color-primario.p-4

@@ -162,7 +162,7 @@
         figure.mb-4
           img(src='@/assets/curso/temas/tema1/slid-3.svg', alt='')
         h4 Internacional
-        p Va dirigido a consumidores o industriales residentes en otro país y que buscan mediante su estrategia, lograr operatividad y posicionamiento en mercados foráneos. 
+        p Va dirigido a consumidores o industriales residentes en otro país y que buscan, mediante su estrategia, lograr operatividad y posicionamiento en mercados foráneos. 
         
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-down")
       .col-lg-10.col-12.cajon.color-secundario.p-4
