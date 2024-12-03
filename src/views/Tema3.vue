@@ -72,7 +72,7 @@
 
     p.mb-4(data-aos="fade-right") El método de regresión estima una variable en función de otra que supuestamente es conocida; para ello, se establece una ecuación matemática que permite relacionar una variable dependiente Y, y las variables independientes X. Existen diferentes tipos de relaciones, entre las más utilizadas está la lineal, parabólica, exponencial y logarítmica.
 
-    p.mb-5(data-aos="fade-right") A continuación, se explica la manera de como establecer la regresión a través de los siguientes pasos:
+    p.mb-5(data-aos="fade-right") A continuación, se explica la manera de cómo establecer la regresión a través de los siguientes pasos:
     
     .row.justify-content-center.mb-5(data-aos="fade-down")
       .col-12.col-lg-10
